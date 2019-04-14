@@ -1,1 +1,15 @@
 *.jpg
+*.xlsx
+*.tar
+*.csv
+*.png
+*.cfg
+*.ipynb
+*.log
+*__pycache__*
+*venv*
+*.yaml
+.idea/*
+*.pkl
+*.txt
+*.zip
